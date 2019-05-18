@@ -15,4 +15,15 @@ npm install national-rail-data
 
 ### Usage
 
-TBC
+In order to use this library you will first need to obtain a [National Rail Data Portal](http://opendata.nationalrail.co.uk) account. The credentials are used to initialise this library:
+
+```javascript
+const RailData = require('national-rail-data')
+let railData = RailData('username', 'password')
+``` 
+
+You can then use library to retrieve the station information as follows:
+
+```javascript
+let stations = await railData.getStations()
+```
