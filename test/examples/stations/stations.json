@@ -1,0 +1,30 @@
+[
+  {
+    "crsCode": "ABE",
+    "name": "Aber",
+    "latitude": "51.57496069",
+    "longitude": "-3.229838935",
+    "stationOperator": "AW"
+  },
+  {
+    "crsCode": "ABA",
+    "name": "Aberdare",
+    "latitude": "51.71505747",
+    "longitude": "-3.443099147",
+    "stationOperator": "AW"
+  },
+  {
+    "crsCode": "AVY",
+    "name": "Aberdovey",
+    "latitude": "52.54397223",
+    "longitude": "-4.057080835",
+    "stationOperator": "AW"
+  },
+  {
+    "crsCode": "ABH",
+    "name": "Abererch",
+    "latitude": "52.89860046",
+    "longitude": "-4.374195955",
+    "stationOperator": "AW"
+  }
+]

@@ -1,0 +1,12 @@
+{
+  "username": "test@test.uk",
+  "roles": {
+    "ROLE_DARWIN": true,
+    "ROLE_KB_REAL_TIME": true,
+    "ROLE_STANDARD": true,
+    "ROLE_KB_API": true,
+    "ROLE_DTD": true,
+    "ROLE_HSP_USER": true
+  },
+  "token": "test@test.uk:23423:Gwaf4qF3qef="
+}
